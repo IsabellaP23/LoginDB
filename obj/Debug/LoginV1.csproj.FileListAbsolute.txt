@@ -1,0 +1,12 @@
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\bin\Debug\LoginV1.exe.config
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\bin\Debug\LoginV1.exe
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\bin\Debug\LoginV1.pdb
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.frmBienvenido.resources
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.FrmLogin.resources
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.Properties.Resources.resources
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.FrmRegistro.resources
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.exe
+C:\Users\usuario\Downloads\LoginV1-master\LoginV1-master\obj\Debug\LoginV1.pdb

@@ -1,0 +1,13 @@
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginDB.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.frmBienvenido.resources
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.FrmLogin.resources
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.Properties.Resources.resources
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.FrmRegistro.resources
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginDB.csproj.GenerateResource.cache
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginDB.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.exe
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginV1.pdb
+C:\Users\usuario\Downloads\LoginDB\bin\Debug\LoginV1.exe.config
+C:\Users\usuario\Downloads\LoginDB\bin\Debug\LoginV1.exe
+C:\Users\usuario\Downloads\LoginDB\bin\Debug\LoginV1.pdb
+C:\Users\usuario\Downloads\LoginDB\obj\Debug\LoginDB.csproj.Up2Date
